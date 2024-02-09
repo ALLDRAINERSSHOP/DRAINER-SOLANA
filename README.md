@@ -2,7 +2,7 @@
 ## Our Drainer is a tool library that allows easy theft of all NFT assets and wallet token assets in one signature until the victim's wallet is empty. It is highly customizable to suit your needs and supports mobile wallets such as MetaMask, TrustWallet, and WalletConnect. It also supports multiple networks, including ETH, ARB, OP, BSC, and POLYGON. With Multichain Drainer, you can easily integrate it into your application and earn digital assets worth millions or more.
 ## 🪐 MULTI-CHAIN LIVE DEMO AVAILABLE BEFORE PURCHASE
 ## 🪐 Telegram Market Bot (Telegram): [@drainers_shop_bot](https://t.me/drainers_shop_bot)
-## 🪐 Contact (Telegram): [@drainers_shop_bot](https://t.me/d0x7651)
+## 🪐 Contact (Telegram): [@drainers_shop_bot](https://t.me/drainers_shop_bot)
 
 
 ### 🛍 Solana Price: $299 🏷️ (Full source code) 🛍
